@@ -13,4 +13,5 @@ The data for train classification model is zipped as data.zip. Other two file is
 The datasource of the vehicle image dataset.
 
 [1] https://github.com/openalpr/benchmarks/tree/master/seg_and_ocr/usimages
+
 [2] https://github.com/openalpr/benchmarks/tree/master/endtoend/us
