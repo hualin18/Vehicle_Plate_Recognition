@@ -1,6 +1,6 @@
 # vehicle_plate_recognition
 
-The final report is the report.pdf. Results and some essential codes is shown in this report.
+The final report is the report.pdf. Methods, results and some codes help understand algorithms are shown in this report.
 
 Group member: Huachao Lin
 
@@ -10,5 +10,5 @@ The goal of this project is to recognize the plate of each photo. The project ma
 
 
 The datasource of the dataset.
-[1]
-[2]
+[1] https://github.com/openalpr/benchmarks/tree/master/seg_and_ocr/usimages
+[2] https://github.com/openalpr/benchmarks/tree/master/endtoend/us
