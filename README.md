@@ -1,6 +1,6 @@
 # vehicle_plate_recognition
 
-The final report is the report.pdf. Methods, results and some codes help understand algorithms are shown in this report.
+The final report is the file named report.pdf. Methods, results and some codes help understand algorithms are shown in this report.
 
 Group member: Huachao Lin
 
