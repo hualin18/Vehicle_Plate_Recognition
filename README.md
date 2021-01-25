@@ -15,3 +15,27 @@ The datasource of the vehicle image dataset.
 [1] https://github.com/openalpr/benchmarks/tree/master/seg_and_ocr/usimages
 
 [2] https://github.com/openalpr/benchmarks/tree/master/endtoend/us
+
+The plate segmentation is mainly in three steps:
+
+1. Bluring
+
+The original plate photo is as left and image changed to gray scale is as right
+
+![image](../master/plate.png)     ![image](../master/gray.png)
+
+After changing the color to gray scale, a 5*5 matrix is used to blur the image to avoid some shrap pixels.
+
+![image](../master/blur.png)
+
+2. Thresholding and convert image:
+
+Using proper thresholding algorithm, image can be changed to a clear pattern in white and black color.
+
+![image](../master/threshold.png)
+
+3. Contour and segment:
+
+Using proper contour algorithm,segment each characters of plates out.
+
+![image](../master/contour.png)
