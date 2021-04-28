@@ -24,7 +24,7 @@ The original plate photo is as left and image changed to gray scale is as right
 
 ![image](../master/plate.png)     ![image](../master/gray.png)
 
-After changing the color to gray scale, a 5*5 matrix is used to blur the image to avoid some shrap pixels.
+After changing the color to gray scale, a 5*5 matrix is used to blur the image to avoid some sharp pixels.
 
 ![image](../master/blur.png)
 
